@@ -12,8 +12,7 @@
 
 ## 開発環境
 
-- ANACONDA
-  -
+- ## ANACONDA
 - jupyterlab
 
   - 実行結果がすぐに見える。
@@ -25,3 +24,11 @@
 ### Docker
 
 - docker run -v
+
+### NumPy
+
+- Numeric Python の略
+- 科学や数学のための数値計算ライブラリ
+- 行列計算が得意
+  - 行列
+    - ベクトルを複数行にまとめたもの
